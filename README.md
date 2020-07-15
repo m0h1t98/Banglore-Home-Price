@@ -2,13 +2,13 @@
 This is an end to end machine learning model of Banglore Home price prediction. 
 
 Required Libraries
--1. NumPy
--2. Pandas
--3. Flask
--4. Request
--5. Sklearn
+1. NumPy
+2. Pandas
+3. Flask
+4. Request
+5. Sklearn
 
-File structure
+# File structure
 
 .
 ├──...
