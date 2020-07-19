@@ -1,7 +1,11 @@
 # Banglore-Home-Price-Prediction
 This is an end to end machine learning model of Banglore Home price prediction. 
 
-Required Libraries
+# Summary
+This was a good ML project for the regression problem. I used some features to predict the estimated price of a house. I applied pipelining, data cleaning, transformation, extraction and some ML algorithms.
+
+
+# Required Libraries
 1. NumPy
 2. Pandas
 3. Flask
